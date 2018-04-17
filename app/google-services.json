@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "397403793748",
+    "firebase_url": "https://serene-notch-180309.firebaseio.com",
+    "project_id": "serene-notch-180309",
+    "storage_bucket": "serene-notch-180309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397403793748:android:5e73b04941868876",
+        "android_client_info": {
+          "package_name": "com.example.hang.googletranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397403793748-3rsshdl8c4mecddddj70gi99mhhb62v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoovgheOP_0QMl-bZXqWGiBiOCwHUNn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
